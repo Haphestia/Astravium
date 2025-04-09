@@ -1,0 +1,10 @@
+{
+  "Name": "Astravium",
+  "Author": "Haphestia",
+  "Version": "1.0.0",
+  "Description": "Mass storage and automation mod.",
+  "UniqueID": "haphestia.astravium",
+  "EntryDll": "Astravium.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
